@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\TextProcessor\TextProcessor\bin\Debug\TextProcessor.exe.config
+C:\Users\Admin\source\repos\TextProcessor\TextProcessor\bin\Debug\TextProcessor.exe
+C:\Users\Admin\source\repos\TextProcessor\TextProcessor\bin\Debug\TextProcessor.pdb
+C:\Users\Admin\source\repos\TextProcessor\TextProcessor\obj\Debug\TextProcessor.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TextProcessor\TextProcessor\obj\Debug\TextProcessor.Form1.resources
+C:\Users\Admin\source\repos\TextProcessor\TextProcessor\obj\Debug\TextProcessor.Properties.Resources.resources
+C:\Users\Admin\source\repos\TextProcessor\TextProcessor\obj\Debug\TextProcessor.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TextProcessor\TextProcessor\obj\Debug\TextProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TextProcessor\TextProcessor\obj\Debug\TextProcessor.exe
+C:\Users\Admin\source\repos\TextProcessor\TextProcessor\obj\Debug\TextProcessor.pdb
