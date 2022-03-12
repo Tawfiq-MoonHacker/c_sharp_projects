@@ -1,0 +1,19 @@
+﻿@model WebApplication3.ViewModels.MovieViewModel;
+
+
+@{
+    ViewBag.Title = "AllMovies";
+}
+
+<h2>MovieView</h2>
+
+@foreach(var movie in Model.MoviesDetails)
+{
+    <h1>Movie Details : </h1>
+    <h1>@movie.Name</h1>
+    <h1>@movie.Id</h1>
+    <span>@movie.Genera</span>
+    <span>@movie.Rating</span>
+
+}
+
