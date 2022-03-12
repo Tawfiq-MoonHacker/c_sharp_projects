@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\bin\Debug\ResturanMenu.exe.config
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\bin\Debug\ResturanMenu.exe
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\bin\Debug\ResturanMenu.pdb
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\obj\Debug\ResturanMenu.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\obj\Debug\ResturanMenu.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\obj\Debug\ResturanMenu.Form1.resources
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\obj\Debug\ResturanMenu.Properties.Resources.resources
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\obj\Debug\ResturanMenu.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\obj\Debug\ResturanMenu.exe
+C:\Users\Admin\source\repos\ResturanMenu\ResturanMenu\obj\Debug\ResturanMenu.pdb
