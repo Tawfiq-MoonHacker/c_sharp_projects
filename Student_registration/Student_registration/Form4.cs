@@ -13,7 +13,7 @@ namespace Student_registration
 {
     public partial class Form4 : Form
     {
-        string connStr = "server=localhost;user=root;database=mydb;port=3306;password=SupermiNer@890";
+        string connStr = "server=localhost;user=root;database=mydb;port=3306;password=password";
         public Form4()
         {
             InitializeComponent();
