@@ -24,7 +24,7 @@ namespace Student_registration
         public static string lastname;
         public static int hours;
 
-        string connStr = "server=localhost;user=root;database=mydb;port=3306;password=SupermiNer@890";
+        string connStr = "server=localhost;user=root;database=mydb;port=3306;password=password";
 
         public bool timeinterfer(string s,string v)
         {
