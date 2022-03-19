@@ -21,7 +21,7 @@ namespace Student_registration
         public string lastname = Form3.lastname;
         public string specialization = Form3.specialization;
 
-        string connStr = "server=localhost;user=root;database=mydb;port=3306;password=SupermiNer@890";
+        string connStr = "server=localhost;user=root;database=mydb;port=3306;password=password";
 
         public Form5()
         {
