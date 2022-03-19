@@ -21,7 +21,7 @@ namespace Student_registration
         {
             try
             {
-                string connStr = "server=localhost;user=root;database=mydb;port=3306;password=SupermiNer@890";
+                string connStr = "server=localhost;user=root;database=mydb;port=3306;password=password";
                 MySqlConnection conn = new MySqlConnection(connStr);
                 label1.Text = "connection is succesful";
                 label1.ForeColor = Color.Green;
