@@ -15,7 +15,7 @@ namespace Student_registration
     public partial class Form2 : Form
     {
         public static int id;
-        string connStr = "server=localhost;user=root;database=mydb;port=3306;password=SupermiNer@890";
+        string connStr = "server=localhost;user=root;database=mydb;port=3306;password=password";
         public Form2()
         {
 
